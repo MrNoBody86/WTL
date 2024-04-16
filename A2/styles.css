@@ -3,25 +3,22 @@ body {
   }
   
 h1 {
-    color: white;
+    color: brown;
     text-align: center;
   }
   
 p {
-    font-family: verdana;
+    font-family: verdana,'Times New Roman', Times, serif;
     font-size: 20px;
   }
 
+  
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#ffa64d;
-  }
-  
-li {
-    float: left;
+    background-color:#e67300;
   }
 
 li a {
@@ -49,3 +46,11 @@ li {
 li:last-child {
     border-right: none;
   }
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+
+}
