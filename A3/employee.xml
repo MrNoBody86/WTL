@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>E001</id>
+        <name>Aryan Chouksey</name>
+        <department>Engineering</department>
+        <position>Software Engineer</position>
+        <salary>80000</salary>
+    </employee>
+    <employee>
+        <id>E002</id>
+        <name>Emma Johnson</name>
+        <department>Sales</department>
+        <position>Sales Manager</position>
+        <salary>90000</salary>
+    </employee>
+    <employee>
+        <id>E003</id>
+        <name>Michael Lee</name>
+        <department>Finance</department>
+        <position>Financial Analyst</position>
+        <salary>75000</salary>
+    </employee>
+</employees>
